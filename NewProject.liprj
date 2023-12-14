@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject TargetLanguage="en-nz" xml:lang="en-nz" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="">
     <ProjectFile Source="Target/Testing-Git.flprj" Target="Target/Testing-Git.flprj" />
+    <TMConnection Connection="../My Translated Projects/NewProject/LingoLocal2.db" ReadOnly="false" Type="StandAlone" />
+    <TMConnection Connection="../My Translated Projects/NewProject1/LingoLocal2.db" ReadOnly="false" Type="StandAlone" />
+    <TermConnection Connection="file:///C:/Users/jdelacruz/Documents/My Translated Projects/NewProject/LingoLocal4.litdb3" ReadOnly="false" Type="StandAlone" />
+    <TermConnection Connection="file:///C:/Users/jdelacruz/Documents/My Translated Projects/NewProject1/LingoLocal4.litdb3" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
